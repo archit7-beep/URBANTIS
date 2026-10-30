@@ -1,0 +1,5 @@
+scenario_id,scenario_type,target_device,start_tick,intensity,expected_anomaly_category
+1,DDOS_BURST,GW-NORTH-01,10,300,Microcluster Edge Burst Anomaly
+2,KILLCHAIN_EXPLOIT,SIG-CTRL-13,25,4,Killchain Exploit: Traffic Signal Hijack
+3,PHYSICAL_COLLISION,INT-14,40,5,Emergency Vehicle Preemption Required
+4,CREDENTIAL_BRUTE_FORCE,GW-SOUTH-02,55,10,Credential Brute-Force & Gateway Manipulation

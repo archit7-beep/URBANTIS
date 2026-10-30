@@ -1,0 +1,26 @@
+intersection_id,name,pos_x,pos_y,lat,lng,controlling_gateway,has_signal,sector
+1,Pune University Circle,500,200,18.5529,73.8260,SRV-PMC-SMARTCITY-CORE,1,North-West
+2,Shivajinagar / Shimla Office,1000,400,18.5314,73.8446,SRV-PMC-SMARTCITY-CORE,1,Central
+3,Pune Station / Sassoon Chowk,1500,500,18.5284,73.8742,SRV-PMC-SMARTCITY-CORE,1,Central-East
+4,Yerawada / Bund Garden Chowk,1800,200,18.5526,73.8825,GW-MAGARPATTA-CYBER-02,1,North-East
+5,Viman Nagar / Phoenix Chowk,2400,100,18.5679,73.9143,GW-MAGARPATTA-CYBER-02,1,East-Corridor
+6,Senapati Bapat Road (ICC Towers),600,500,18.5362,73.8300,SRV-PMC-SMARTCITY-CORE,1,West
+7,FC Road / Deccan Gymkhana,900,700,18.5186,73.8415,SRV-PMC-SMARTCITY-CORE,1,Central-West
+8,JM Road / Sambhaji Bridge,1100,700,18.5204,73.8496,SRV-PMC-SMARTCITY-CORE,1,Central
+9,Camp / MG Road Chowk,1600,800,18.5158,73.8797,GW-MAGARPATTA-CYBER-02,1,East
+10,Kalyani Nagar Chowk,2000,400,18.5463,73.9034,GW-MAGARPATTA-CYBER-02,1,East
+11,Kothrud / Paud Phata,400,900,18.5074,73.8077,GW-HINJEWADI-CYBER-01,1,West
+12,Deenanath Mangeshkar Chowk,700,1000,18.5018,73.8278,GW-HINJEWADI-CYBER-01,1,South-West
+13,Swargate Chowk,1200,1100,18.5018,73.8585,GW-SWARGATE-TRANSIT-03,1,South-Central
+14,Fatima Nagar Chowk,1800,1000,18.5033,73.9011,GW-MAGARPATTA-CYBER-02,1,South-East
+15,Hadapsar / Magarpatta City,2300,1000,18.5089,73.9259,GW-MAGARPATTA-CYBER-02,1,East-IT-Hub
+16,Chandani Chowk (NH-48),100,1100,18.5074,73.7828,GW-HINJEWADI-CYBER-01,1,Highway-Bypass
+17,Warje Flyover Chowk,300,1400,18.4797,73.8016,GW-HINJEWADI-CYBER-01,1,South-West
+18,Sinhagad Road / Sarasbaug,1000,1300,18.4988,73.8519,GW-SWARGATE-TRANSIT-03,1,South
+19,Market Yard / Gultekdi,1300,1400,18.4891,73.8682,GW-SWARGATE-TRANSIT-03,1,South
+20,Kondhwa / Lullanagar Chowk,1700,1400,18.4839,73.8906,GW-SWARGATE-TRANSIT-03,1,South-East
+21,Hinjewadi Phase 1 (Infotech Park),0,0,18.5913,73.7389,GW-HINJEWADI-CYBER-01,1,Cyber-IT-MegaHub
+22,Wakad / Dange Chowk,200,100,18.5987,73.7667,GW-HINJEWADI-CYBER-01,1,North-West-Corridor
+23,Baner / Balewadi High Street,400,300,18.5590,73.7868,GW-HINJEWADI-CYBER-01,1,North-West
+24,Katraj Chowk (Wonder City),1100,1800,18.4575,73.8588,GW-SWARGATE-TRANSIT-03,1,South-Perimeter
+25,Bibwewadi Chowk,1400,1600,18.4697,73.8654,GW-SWARGATE-TRANSIT-03,1,South-Suburbs

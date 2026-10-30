@@ -1,0 +1,33 @@
+{
+  "name": "urbantis-workstation",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "main": "electron.js",
+  "scripts": {
+    "start": "electron .",
+    "app": "electron .",
+    "dev": "vite",
+    "dev:app": "cross-env ELECTRON_DEV=1 concurrently \"vite --host 127.0.0.1 --port 5173\" \"wait-on tcp:127.0.0.1:5173 && electron .\"",
+    "build": "vite build",
+    "lint": "oxlint",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "lucide-react": "^1.61.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "@vitejs/plugin-react": "^6.1.2",
+    "concurrently": "^10.0.6",
+    "cross-env": "^10.1.0",
+    "electron": "^45.0.0",
+    "oxlint": "^1.88.0",
+    "vite": "^8.3.4",
+    "wait-on": "^9.5.1"
+  }
+}

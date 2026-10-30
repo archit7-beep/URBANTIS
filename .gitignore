@@ -1,0 +1,47 @@
+# ==============================================================================
+# URBANTIS - Git Ignore Configuration
+# ==============================================================================
+
+# Compiled C++ Executables and Objects
+bin/*.exe
+bin/*.o
+bin/*.obj
+bin/*.pdb
+bin/*.ilk
+!bin/.gitkeep
+*.exe
+*.o
+*.obj
+
+# Packaged Standalone Electron Desktop App (~250MB+)
+dist_app/
+dist/
+
+# Distribution Archives & Installers (>100MB exceeds GitHub limits)
+*.zip
+*.7z
+*.rar
+*.tar.gz
+
+# Frontend Node.js Dependencies & Build Artifacts
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/dist-electron/
+
+# Logs & Diagnostics
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Operating System & IDE Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
